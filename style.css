@@ -1,0 +1,56 @@
+.heading{
+    background-color: pink;
+display: flex;
+justify-content: center;
+}
+.box{
+margin-top: 20px;
+display: flex;
+
+align-items: center;
+border: 1px solid black;
+background-color: pink;
+width: 200px;
+height: 100px;
+font-size: 2em;
+justify-content: center;
+
+
+
+
+}
+.flex{
+    display: flex;
+    justify-content: space-between;
+    text-decoration: none;
+}
+.multiple{
+    background-color: pink;
+width: 70%;
+height: 100px;
+display: flex;
+justify-content: center;
+align-items: center; 
+font-size: 2em;
+
+
+
+}
+.multi2{
+    display: flex;
+justify-content: center;
+margin-top: 20px;
+
+}
+.none{
+    text-decoration: none;
+    
+}
+.back{
+    display: flex;
+    width: 100%;
+justify-content: center;
+background-color: pink;
+
+
+}
