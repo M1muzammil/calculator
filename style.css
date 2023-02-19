@@ -54,3 +54,22 @@ background-color: pink;
 
 
 }
+@media (max-width:500px) {.box{
+    font-size: 1em;
+}
+h1{ font-size: 1em;}
+.multiple{
+    font-size: 1em;
+}
+.box{
+    width: 30%;
+    height: 30%;
+}
+
+@media (max-width:270) {
+    
+    .box{overflow: auto;}
+    
+}
+    
+}
